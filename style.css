@@ -30,12 +30,12 @@ h4 {
   background-color: #f6f6f6;
 }
 .logo-small {
-  color: #cc6699;
+  color: #b11d1d;
   font-size: 50px;
-}
+}#b11d1d
 .logo {
-  color: #cc6699;
-  font-size: 200px;
+  color: #b11d1d;
+  font-size: 300px;
 }
 .thumbnail {
   padding: 0 0 15px 0;
@@ -50,13 +50,13 @@ h4 {
 .carousel-control.right,
 .carousel-control.left {
   background-image: none;
-  color: #cc6699;
+  color: #959595;
 }
 .carousel-indicators li {
-  border-color: #cc6699;
+  border-color: #959595;
 }
 .carousel-indicators li.active {
-  background-color: #cc6699;
+  background-color: #959595;
 }
 .item h4 {
   font-size: 19px;
@@ -69,7 +69,7 @@ h4 {
   font-style: normal;
 }
 .panel {
-  border: 1px solid #cc6699;
+  border: 1px solid #959595;
   border-radius: 0 !important;
   transition: box-shadow 0.5s;
 }
@@ -77,13 +77,13 @@ h4 {
   box-shadow: 5px 0px 40px rgba(0, 0, 0, 0.2);
 }
 .panel-footer .btn:hover {
-  border: 1px solid #cc6699;
+  border: 1px solid #959595;
   background-color: #fff !important;
-  color: #cc6699;
+  color:#959595;
 }
 .panel-heading {
   color: #fff !important;
-  background-color: #cc6699 !important;
+  background-color: #959595 !important;
   padding: 25px;
   border-bottom: 1px solid transparent;
   border-top-left-radius: 0px;
@@ -103,12 +103,12 @@ h4 {
 }
 .panel-footer .btn {
   margin: 15px 0;
-  background-color: #cc6699;
+  background-color: #959595;
   color: #fff;
 }
 .navbar {
   margin-bottom: 0;
-  background-color: #cc6699;
+  background-color: #959595;
   z-index: 9999;
   border: 0;
   font-size: 12px !important;
@@ -134,7 +134,7 @@ h4 {
 footer .glyphicon {
   font-size: 20px;
   margin-bottom: 20px;
-  color: #cc6699;
+  color: #959595;
 }
 .slideanim {
   visibility: hidden;
@@ -174,15 +174,15 @@ footer .glyphicon {
 }
 
 .dropdown-menu {
-  background-color: #cc6699;
+  background-color: #959595;
   }
   .dropdown-menu li.active a {
   color: #fff !important;
-  background-color:#cc6699 !important;
+  background-color:#959595!important;
   }
   .dropdown-menu li a:hover {
   color: #fff !important;
-  background-color: #cc6699 !important;
+  background-color: #959595 !important;
   }
 
   h2:hover {
@@ -197,7 +197,7 @@ footer .glyphicon {
 }
 
 footer.container-fluid {
-  background-color: #cc6699;
+  background-color: #959595;
   color:white;
   text-align: center;
 }
@@ -210,3 +210,12 @@ footer.container-fluid a {
   box-shadow: 0 0 2px 1px red;
 }
 
+.overlap-box{
+position: absolute; 
+
+}
+
+.team {
+  width:50%;
+  height: 50%;
+}
